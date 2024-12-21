@@ -31,13 +31,13 @@
 #### 模型运行说明
 1. ``请确保你的环境可以满足配置需求, 显存>20G, 内存8G以上``
 <br><br>
-2. ``python trainHD.py &nbsp;&nbsp;开始训练``
+2. ``python trainHD.py 开始训练``
 <br><br>
-3. ``python testHD.py &nbsp;&nbsp;开始测试``
+3. ``python testHD.py 开始测试``
 <br><br>
-4. ``python test_visual.py &nbsp;&nbsp;启动可视化测试``
+4. ``python test_visual.py 启动可视化测试``
 <br><br>
-5. ``python FID_evaluation.py &nbsp;&nbsp;启动FID计算``
+5. ``python FID_evaluation.py 启动FID计算``
 `
 ### 效果展示
 
